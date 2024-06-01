@@ -1,0 +1,20 @@
+{
+    "name": "squeaker",
+    "title": "Squeaker",
+    "description": "<p>Chat sounds configuration</p>",
+    "version": "1.2.8",
+    "author": "U~man, Switchu",
+    "scripts": [],
+    "esmodules": [
+      "squeaker.js"
+    ],
+    "styles": [
+    ],
+    "packs": [],
+    "languages": [],
+    "url": "",
+    "manifest": "",
+    "download": "",
+    "minimumCoreVersion": "11",
+    "compatibleCoreVersion": "11"
+  }
